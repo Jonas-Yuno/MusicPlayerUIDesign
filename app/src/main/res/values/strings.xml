@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="zero">0:00</string>
+    <string name="current_song_title">Current Song Title</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="now_pausing">NOW PAUSING</string>
+    <!-- 权限文本 -->
+    <string name="permissions">为了正常使用，需要以下权限!</string>
+    <string name="permissions_error">未能获取到相关权限</string>
+    <!--    getManager-->
+    <string name="authorize_msg">点击前往授权</string>
+    <string name="authorize_title_msg">缺少必要权限</string>
+    <string name="file_manger_msg">Android 11 需要授予所有文件的管理权限</string>
+
+    <string name="modify_permission_msg">应用不能正常运行，需要在设置里手动开启访问储存权限</string>
+</resources>
